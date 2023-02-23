@@ -1,0 +1,15 @@
+react
+react-Native
+config-files
+config
+redux
+ext-libraries
+assets
+controllers
+services
+context
+navigator
+styles
+hooks-utils
+screens
+components
