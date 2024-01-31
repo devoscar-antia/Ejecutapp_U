@@ -6,8 +6,6 @@ I was the developer in charge of creating the stimulus 5 called creative balloon
 
 <p>In this stimulus you will hear some numbers you must be attentive because you can not be repeated, then appear on the screen the balloons that have some numbers and you must touch them in the same order that you were told in the said. You will be warned when you have to touch the balloons according to the numbers you heard. </p>
 
-![Uploading estimulo.gif…]()
-
 ## Deployment
 
 To deploy this project run
